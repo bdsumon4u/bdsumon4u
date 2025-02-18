@@ -200,7 +200,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
   - **Team:** RU_Codatron, 4 classmates collaborative effort
   320+ teams from 75+ institutions; we're 3rd.
   
-  <img src="./nsu-tour.jpg" alt="Team photo at NSU WebXtreme Hackathon" width="500"/>
+  <img src="./nsu-tour.jpeg" alt="Team photo at NSU WebXtreme Hackathon" width="500"/>
 
 </details>
 
