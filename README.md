@@ -197,8 +197,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
   - **Event:** [Programming Hero](https://www.programming-hero.com) Presents WebXtreme Hackathon 2025
   - **Position:** 2nd Runner Up 🥉
   - **Host:** North South University, Dhaka
-  - **Team:** RU_Codatron, 4 classmates collaborative effort
-  320+ teams from 75+ institutions; we're 3rd.
+  - **Team:** RU_Codatron, 4 classmates collaborative effort. We're 3rd among 320+ teams from 75+ institutions.
   
   <img src="./nsu-tour.jpeg" alt="Team photo at NSU WebXtreme Hackathon" width="500"/>
 
