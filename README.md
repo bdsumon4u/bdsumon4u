@@ -92,7 +92,7 @@ vlAd1yFkDJdt
 
 ## 🚀 Successful Projects  
 
-<details>
+<details open>
   <summary>📌 <strong>HotashKom</strong></summary>
 
   - **Description:**
@@ -151,7 +151,7 @@ vlAd1yFkDJdt
 
 </details>
 
-<details>
+<details open>
   <summary>📌 <strong>Site32</strong></summary>
 
   - **Description:** This cool project automatically updates HotashKom's new features/fixes to hundreds of clients' websites if the client has a maintenance package on Cyber 32's WHMCS portal.
@@ -188,6 +188,21 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 | **Other Contributions** | [My GitHub Contributions](https://github.com/pulls?q=author%3Abdsumon4u) | Various PRs & issue fixes |
 
 > 💡 _Check out my full list of contributions on_ [GitHub Pull Requests](https://github.com/pulls?q=author%3Abdsumon4u). 🚀  
+
+## 🏆 Achievements
+
+<details open>
+  <summary>🎯 <strong>Hackathon Success - WebXtreme 2025</strong></summary>
+
+  - **Event:** [Programming Hero](https://www.programming-hero.com) Presents WebXtreme Hackathon 2025
+  - **Position:** 2nd Runner Up 🥉
+  - **Host:** North South University, Dhaka
+  - **Team:** RU_Codatron, 4 classmates collaborative effort
+  320+ teams from 75+ institutions; we're 3rd.
+  
+  <img src="./nsu-tour.jpg" alt="Team photo at NSU WebXtreme Hackathon" width="500"/>
+
+</details>
 
 ## 🚀 My Tech Stack
 
