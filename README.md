@@ -180,6 +180,7 @@ I rarely contribute to open-source projects. Here are some insignificant contrib
 
 | 🔹 Project                                                                      | 🔹 Contribution |
 |---------------------------------------------------------------------------------|-----------------|
+| **[filamentphp/filament](https://github.com/filamentphp/filament)**             | BugFix: redundant column prefixing in table summaries ([#17274](https://github.com/filamentphp/filament/pull/17274)) |
 | **[Filament Menu Builder](https://github.com/datlechin/filament-menu-builder)** | Bug fixes & feature improvements ([#30](https://github.com/datlechin/filament-menu-builder/pull/30)) |
 | **[Laravel Splade](https://github.com/protonemedia/laravel-splade)**            | Event support on Bridge component ([#433](https://github.com/protonemedia/laravel-splade/pull/433)) |
 | **[Laravel Fortify](https://github.com/laravel/fortify)**                       | Added Response contract bindings ([#425](https://github.com/laravel/fortify/pull/425)) |
